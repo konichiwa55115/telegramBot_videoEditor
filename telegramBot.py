@@ -200,7 +200,7 @@ def help(update, context):
 
 def main():
     global updater
-    updater = Updater("ENTER YOUR TOKEN", use_context=True)
+    updater = Updater("6089522865:AAG0vUsYSBg-BaSfiG1T5E1QTrorjoMDA4U", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
